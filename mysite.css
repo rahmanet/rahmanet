@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+  html {
+	 margin:0px;
+	 padding:0px;
+	 }
+  body {
+	  background-image:url(img/bg.jpg);
+	  direction:rtl;
+	  }
